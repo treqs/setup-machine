@@ -1,8 +1,5 @@
 # Setup Machine
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](code-of-conduct.md)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-
 > Configure Your Machine for data analytics and software development
 
 ## Task 1: Turn on Developer Settings
