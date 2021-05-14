@@ -1,12 +1,9 @@
-# Windows Setup For Developers (The Basics)
+# Setup Machine
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](code-of-conduct.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-> Configure Windows for software development
-
-- [Webpage](https://denisecase.github.io/windows-setup/)
-- [Source](https://github.com/denisecase/windows-setup)
+> Configure Your Machine for data analytics and software development
 
 ## Task 1: Turn on Developer Settings
 
@@ -48,6 +45,8 @@ Then, update your folder context menu:
 3. Follow Steps 5-9.
 
 Finally, verify. Open File Explorer, go to "Documents" and right-click on a folder. You should see the option to "Open PowerShell here as administrator". 
+
+---
 
 ## Know These Terms
 
