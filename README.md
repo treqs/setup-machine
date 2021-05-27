@@ -47,18 +47,23 @@ Finally, verify. Open File Explorer, go to "Documents" and right-click on a fold
 
 ## Know These Terms
 
-- Administrator - a user with elevated permissions including create, delete, and modify settings and items
-- Context menu - a pop-up menu, typically avaiable when right-clicking on an item
-- File name - the complete name + extension of the file OR the part that comes before the . and extension
-- File extension - the part at the end of the file that indicates its type (e.g. doc, xls, md, html)
-- Folder / directory - a place to store files on your computer
-- Hidden files - files not displayed to typical users
-- Operating system - software that provides a computer's most basic functions such as connecting devices and executing applications
-- Command line interface (CLI)
-- PowerShell - a powerful CLI for Windows
-- System files - files used by Windows that should not be modified by users
-- Windows 10 - a popular operating system
-- Windows File Explorer - a graphical interface to folders and files on Windows
+- Operating system - Software that provides a computer's most basic functions such as connecting devices and executing applications.  Popular operating systems are:
+    - Windows
+    - MacOS
+    - Linux
+- User - A person with account on a machine that allows access to authorized resources through the operating system.
+- Administrator - A user with elevated permissions including create, delete, and modify settings and items.
+- Command Line Interface (CLI) - A mode of interacting with a computer where commands are typed and the result is displayed as text.
+- Graphical User Interface (GUI) - A mode of interacting with a computer where the user interacts with a 2-D window by using a pointing device and clicking to trigger operations. Windows often have a menu bar accross the top for easy access to common operations. In many cases, operations will need to use text to specify input for the operation.  The result can be a mix of graphics and text.
+- Context menu - A pop-up menu, typically avaiable when right-clicking on an item in a window.
+- Power Shell - A powerful CLI for Windows.
+- Windows File Explorer - A program that uses a GUI to allow a user to browse their computers file systems.
+File system - A heirachical way of organizing files that is based on directories (folders) that contain files and sub-directories.  The top of the file system is root.
+- File name - The complete name + extension of the file OR the part that comes before the . and extension.
+- File extension - The part at the end of the file that indicates its type (e.g. doc, xls, md, html).
+- Hidden files - Files not displayed to typical users. Typically, their name starts with a period.
+- System files - Files used by operating system that should not be modified by users.
+
 
 ## Next Steps
 
